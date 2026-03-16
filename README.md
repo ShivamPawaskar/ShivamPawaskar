@@ -89,12 +89,27 @@ Frontend Motion Design
 
 ---
 
-## Connect
+## Connect With Me
 
-<p align="center">
-<a href="https://github.com/ShivamPawaskar">GitHub</a>
+<p align="left">
+
+<a href="https://github.com/ShivamPawaskar" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/shivam-pawaskar-a898b5377/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.kaggle.com/shivampawaskar" target="_blank">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
+
+<a href="mailto:pawaskarshivam19@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
-
 ---
 
 ## Signature
