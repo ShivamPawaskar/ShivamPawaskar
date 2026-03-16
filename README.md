@@ -1,7 +1,9 @@
 # Shivam Pawaskar  
 
 <p align="center">
-Machine Learning and Data Science enthusiast focused on building real-world projects and interactive web experiences.
+Machine Learning and Data Science enthusiast focused on building real-world projects, intelligent systems, and interactive web experiences.  
+Driven by curiosity and problem-solving, with hands-on experience in data analysis, model development, and visualization.  
+Additionally, a 3D artist specializing in environment design and asset modeling, blending creativity with technical workflows to create immersive digital experiences.
 </p>
 
 ---
