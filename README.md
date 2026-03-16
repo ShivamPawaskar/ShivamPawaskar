@@ -1,55 +1,49 @@
+# Shivam Pawaskar  
 
-## Hi, I'm Shivam  
-Passionate about Machine Learning, Data Science, and Creative Web Experiences  
-
----
-
-### About Me  
-
-B.Tech Computer Science student focused on practical and real-world projects  
-Exploring Machine Learning workflows, modeling, and experimentation  
-Building interactive web experiences with modern frontend technologies  
-Interested in data-driven problem solving and visualization  
-Learning continuously through projects, competitions, and experimentation  
-Focused on combining logic, creativity, and usability  
+Machine Learning and Data Science enthusiast focused on building real-world projects and interactive web experiences.
 
 ---
 
-### Tech Stack  
+## GitHub Dashboard
 
-Languages  
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShivamPawaskar&theme=github_dark" width="100%"/>
+
+---
+
+## Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShivamPawaskar&show_icons=true&theme=github_dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamPawaskar&layout=compact&theme=github_dark"/>
+</p>
+
+---
+
+## Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ShivamPawaskar&theme=github-dark"/>
+</p>
+
+---
+
+## Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivamPawaskar&theme=github-dark"/>
+
+---
+
+## Tech Stack
+
+<p>
 Python • JavaScript • SQL • HTML • CSS  
-
-Frameworks and Tools  
-Next.js • React • Tailwind CSS • Framer Motion • Git • Jupyter • Node.js  
-
-Machine Learning  
+Next.js • React • Tailwind • Framer Motion  
 Scikit-learn • Pandas • NumPy • Matplotlib  
+Git • Jupyter • Node.js  
+</p>
 
 ---
 
-### GitHub Stats  
+## Signature
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ShivamPawaskar&show_icons=true)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamPawaskar&layout=compact)  
-
-![Streak](https://streak-stats.demolab.com/?user=ShivamPawaskar)  
-
----
-
-### Activity Graph  
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShivamPawaskar)
-
----
-
-### Connect  
-
-GitHub: https://github.com/ShivamPawaskar  
-
----
-
-### Signature  
-
-"Building ideas into reality through code, creativity, and continuous learning."
+Building ideas into reality through code, creativity, and continuous learning.
