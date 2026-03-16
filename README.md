@@ -29,8 +29,8 @@ Machine Learning and Data Science enthusiast focused on building real-world proj
 ## GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ShivamPawaskar&show_icons=true&theme=github_dark"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamPawaskar&layout=compact&theme=github_dark"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ShivamPawaskar&show_icons=true&theme=github_dark"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamPawaskar&layout=compact&theme=github_dark"/>
 </p>
 
 ---
@@ -66,12 +66,14 @@ Machine Learning and Data Science enthusiast focused on building real-world proj
 </p>
 
 ---
+
 ## GitHub Skyline
 
-View my GitHub contribution skyline:
+<p align="center">
+<a href="https://skyline.github.com/ShivamPawaskar">View My GitHub Skyline</a>
+</p>
 
-https://skyline.github.com/ShivamPawaskar
-
+---
 
 ## Coding Focus
 
@@ -85,10 +87,14 @@ Frontend Motion Design
 
 ## Connect
 
-GitHub: https://github.com/ShivamPawaskar  
+<p align="center">
+<a href="https://github.com/ShivamPawaskar">GitHub</a>
+</p>
 
 ---
 
 ## Signature
 
+<p align="center">
 Building ideas into reality through code, creativity, and continuous learning.
+</p>
