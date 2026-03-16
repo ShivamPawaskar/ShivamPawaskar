@@ -4,6 +4,17 @@ Machine Learning and Data Science enthusiast focused on building real-world proj
 
 ---
 
+
+
+
+
+
+<img src="https://raw.githubusercontent.com/ShivamPawaskar/ShivamPawaskar/main/github-metrics.svg">
+
+
+
+
+
 ## GitHub Dashboard
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShivamPawaskar&theme=github_dark" width="100%"/>
@@ -48,4 +59,4 @@ Git • Jupyter • Node.js
 
 Building ideas into reality through code, creativity, and continuous learning.
 
-<img src="https://raw.githubusercontent.com/ShivamPawaskar/ShivamPawaskar/main/github-metrics.svg">
+
