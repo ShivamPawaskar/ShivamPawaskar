@@ -47,3 +47,5 @@ Git • Jupyter • Node.js
 ## Signature
 
 Building ideas into reality through code, creativity, and continuous learning.
+
+<img src="https://raw.githubusercontent.com/ShivamPawaskar/ShivamPawaskar/main/github-metrics.svg">
