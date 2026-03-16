@@ -72,7 +72,9 @@ Additionally, a 3D artist specializing in environment design and asset modeling,
 ## GitHub Skyline
 
 <p align="center">
-<a href="https://skyline.github.com/ShivamPawaskar">View My GitHub Skyline</a>
+<a href="https://github.com/ShivamPawaskar/ShivamPawaskar/blob/main/skyline-small.stl">
+View My GitHub Skyline (2026)
+</a>
 </p>
 
 ---
