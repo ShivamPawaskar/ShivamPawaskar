@@ -19,7 +19,8 @@ Additionally, a 3D artist specializing in environment design and asset modeling,
 <p align="center">
 <b>Titanic Survival Prediction</b><br/>
 Feature engineering, ensemble machine learning, and an interactive Streamlit demo built on the Kaggle Titanic dataset.<br/>
-<a href="https://github.com/ShivamPawaskar/titanic-prediction">View Repository</a>
+<a href="https://github.com/ShivamPawaskar/titanic-prediction">View Repository</a> |
+<a href="https://titanic-prediction-euncq4cfjurw2bwuvbe8im.streamlit.app/">Live Demo</a>
 </p>
 
 ---
