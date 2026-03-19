@@ -8,6 +8,22 @@ Additionally, a 3D artist specializing in environment design and asset modeling,
 
 ---
 
+## Featured Project
+
+<p align="center">
+<a href="https://github.com/ShivamPawaskar/titanic-prediction">
+<img src="https://raw.githubusercontent.com/ShivamPawaskar/titanic-prediction/main/assets/banner.svg" alt="Titanic Survival Prediction banner"/>
+</a>
+</p>
+
+<p align="center">
+<b>Titanic Survival Prediction</b><br/>
+Feature engineering, ensemble machine learning, and an interactive Streamlit demo built on the Kaggle Titanic dataset.<br/>
+<a href="https://github.com/ShivamPawaskar/titanic-prediction">View Repository</a>
+</p>
+
+---
+
 ## Profile Metrics
 
 <p align="center">
