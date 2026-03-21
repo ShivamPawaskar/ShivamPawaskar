@@ -11,16 +11,16 @@ Additionally, a 3D artist specializing in environment design and asset modeling,
 ## Featured Project
 
 <p align="center">
-<a href="https://github.com/ShivamPawaskar/titanic-prediction">
-<img src="https://raw.githubusercontent.com/ShivamPawaskar/titanic-prediction/main/assets/banner.svg" alt="Titanic Survival Prediction banner"/>
-</a>
+  <a href="https://github.com/ShivamPawaskar/AI-Hallucination-Detection-Risk-Assessment">
+    <img src="https://img.shields.io/badge/Featured-AI%20Hallucination%20Risk%20Detector-0d6b5c?style=for-the-badge&logo=github&logoColor=white" alt="Featured AI Hallucination Risk Detector"/>
+  </a>
 </p>
 
 <p align="center">
-<b>Titanic Survival Prediction</b><br/>
-Feature engineering, ensemble machine learning, and an interactive Streamlit demo built on the Kaggle Titanic dataset.<br/>
-<a href="https://github.com/ShivamPawaskar/titanic-prediction">View Repository</a> |
-<a href="https://titanic-prediction-euncq4cfjurw2bwuvbe8im.streamlit.app/">Live Demo</a>
+<b>Detection and Risk Assessment of Hallucinations in Generative AI Systems</b><br/>
+Chrome extension + FastAPI backend for live hallucination-risk scoring on AI chat platforms, with trust scores, flagged claims, verification notes, and analysis history.<br/>
+<a href="https://github.com/ShivamPawaskar/AI-Hallucination-Detection-Risk-Assessment">View Repository</a> |
+<a href="https://shivampawaskar.github.io/AI-Hallucination-Detection-Risk-Assessment/">Project Site</a>
 </p>
 
 ---
