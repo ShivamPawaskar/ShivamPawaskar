@@ -136,5 +136,5 @@ Frontend Motion Design
 ## Signature
 
 <p align="center">
-Building Ideas into reality through code, creativity, and continuous learning...
+Building Ideas into reality through code, creativity, and continuous learning..
 </p>
