@@ -1509,7 +1509,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ShivamPawaskar/Dijkstra-s-Algorithm-Visualizer</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Dijkstra's Algorithm Visualizer is a tool that visually demonstrates how Dijkstra’s algorithm finds the shortest path between nodes in a weighted graph. It allows users to select start and end points and observe how the algorithm explores nodes, updates distances, and determines the optimal path step by step. This project helps users understand t</div>
@@ -1556,7 +1556,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ShivamPawaskar/Smart-Restaurant-Management</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Restaurant Ordering &amp; Management System is a full-stack web application with role-based authentication designed to streamline restaurant operations. The system supports three login roles — Customer, Kitchen, and Manager — each with dedicated dashboards and permissions.</div>
@@ -1603,7 +1603,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ShivamPawaskar/A-Cinematic-Wrapped-Journey</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Year With You is a cinematic, scroll-driven digital storytelling experience designed as an interactive love letter. The project presents memories through animated transitions, music, photos, and videos that unfold as the user scrolls through the page.  Built with Next.js App Router, Tailwind CSS, and Framer Motion, the experience focuses on smooth</div>
@@ -1650,7 +1650,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ShivamPawaskar/Titanic-Prediction</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Titanic survival prediction with ensemble ML, feature engineering, and a Streamlit demo</div>
@@ -1700,7 +1700,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Mar 2026, 07:32:17 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Mar 2026, 18:14:51 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
