@@ -1,4 +1,4 @@
-# Shivam Pawaskar  ,,
+# Shivam Pawaskar  ,
 
 <p align="center">
 Machine Learning and Data Science enthusiast focused on building real-world projects, intelligent systems, and interactive web experiences.  
