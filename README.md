@@ -1,27 +1,28 @@
-# Shivam Pawaskar  
+# Shivam Pawaskar
 
 <p align="center">
-Machine Learning and Data Science enthusiast focused on building real-world projects, intelligent systems, and interactive web experiences.  
-Driven by curiosity and problem-solving, with hands-on experience in data analysis, model development, and visualization.  
+Machine Learning and Data Science enthusiast focused on building real-world projects, intelligent systems, and interactive web experiences.<br/>
+Driven by curiosity and problem-solving, with hands-on experience in data analysis, model development, and visualization.<br/>
 Additionally, a 3D artist specializing in environment design and asset modeling, blending creativity with technical workflows to create immersive digital experiences.
 </p>
 
 ---
 
-## Featured Project
+## Featured Projects
 
 <p align="center">
+  <a href="https://github.com/ShivamPawaskar/NEW">
+    <img src="https://img.shields.io/badge/Featured-Orb%20Letters-111827?style=for-the-badge&logo=github&logoColor=white" alt="Featured Orb Letters"/>
+  </a>
   <a href="https://github.com/ShivamPawaskar/AI-Hallucination-Detection-Risk-Assessment">
     <img src="https://img.shields.io/badge/Featured-AI%20Hallucination%20Risk%20Detector-0d6b5c?style=for-the-badge&logo=github&logoColor=white" alt="Featured AI Hallucination Risk Detector"/>
   </a>
 </p>
 
-<p align="center">
-<b>Detection and Risk Assessment of Hallucinations in Generative AI Systems</b><br/>
-Chrome extension + FastAPI backend for live hallucination-risk scoring on AI chat platforms, with trust scores, flagged claims, verification notes, and analysis history.<br/>
-<a href="https://github.com/ShivamPawaskar/AI-Hallucination-Detection-Risk-Assessment">View Repository</a> |
-<a href="https://shivampawaskar.github.io/AI-Hallucination-Detection-Risk-Assessment/">Project Site</a>
-</p>
+| Project | What It Is | Links |
+| --- | --- | --- |
+| **Orb Letters** | A real-time cinematic typography experience where text wraps, drifts, and breathes around moving motion fields built with Three.js, GLSL, workers, and Pretext. | [Repository](https://github.com/ShivamPawaskar/NEW) · [Live Site](https://shivampawaskar.github.io/NEW/) |
+| **Detection and Risk Assessment of Hallucinations in Generative AI Systems** | Chrome extension + FastAPI backend for live hallucination-risk scoring on AI chat platforms, with trust scores, flagged claims, verification notes, and analysis history. | [Repository](https://github.com/ShivamPawaskar/AI-Hallucination-Detection-Risk-Assessment) · [Project Site](https://shivampawaskar.github.io/AI-Hallucination-Detection-Risk-Assessment/) |
 
 ---
 
@@ -98,11 +99,11 @@ View My GitHub Skyline (2026)
 
 ## Coding Focus
 
-Machine Learning  
-Data Science  
-Interactive Web Applications  
-Algorithm Visualization  
-Frontend Motion Design  
+Machine Learning
+Data Science
+Interactive Web Applications
+Algorithm Visualization
+Frontend Motion Design
 
 ---
 
@@ -131,10 +132,11 @@ Frontend Motion Design
 </a>
 
 </p>
+
 ---
 
 ## Signature
 
 <p align="center">
-Building Ideas into reality through code, creativity, and continuous learning.
+Building ideas into reality through code, creativity, and continuous learning.
 </p>
