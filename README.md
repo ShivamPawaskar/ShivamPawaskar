@@ -1,4 +1,4 @@
-# Shivam Pawaskar
+# Shivam Pawaskar......................
 
 <p align="center">
 Machine Learning and Data Science enthusiast focused on building real-world projects, intelligent systems, and interactive web experiences.<br/>
@@ -21,8 +21,8 @@ Additionally, a 3D artist specializing in environment design and asset modeling,
 
 | Project | What It Is | Links |
 | --- | --- | --- |
-| **Orb Letters** | A real-time cinematic typography experience where text wraps, drifts, and breathes around moving motion fields built with Three.js, GLSL, workers, and Pretext. | [Repository](https://github.com/ShivamPawaskar/NEW) · [Live Site](https://shivampawaskar.github.io/NEW/) |
-| **Detection and Risk Assessment of Hallucinations in Generative AI Systems** | Chrome extension + FastAPI backend for live hallucination-risk scoring on AI chat platforms, with trust scores, flagged claims, verification notes, and analysis history. | [Repository](https://github.com/ShivamPawaskar/AI-Hallucination-Detection-Risk-Assessment) · [Project Site](https://shivampawaskar.github.io/AI-Hallucination-Detection-Risk-Assessment/) |
+| **Orb Letters** | A real-time cinematic typography experience where text wraps, drifts, and breathes around moving motion fields built with Three.js, GLSL, workers, and Pretext. | [Repository](https://github.com/ShivamPawaskar/NEW) Â· [Live Site](https://shivampawaskar.github.io/NEW/) |
+| **Detection and Risk Assessment of Hallucinations in Generative AI Systems** | Chrome extension + FastAPI backend for live hallucination-risk scoring on AI chat platforms, with trust scores, flagged claims, verification notes, and analysis history. | [Repository](https://github.com/ShivamPawaskar/AI-Hallucination-Detection-Risk-Assessment) Â· [Project Site](https://shivampawaskar.github.io/AI-Hallucination-Detection-Risk-Assessment/) |
 
 ---
 
